@@ -1,0 +1,11 @@
+<idea-plugin>
+    <id>com.jetbrains.hello-notification-plugin</id>
+    <name>Build tool notification</name>
+    <vendor email="zakomornii1998@gmail.com" url="zakomornii1998@gmail.com">Andrey Zakomornii</vendor>
+
+    <project-components>
+        <component>
+            <implementation-class>NotificationPlugin</implementation-class>
+        </component>
+    </project-components>
+</idea-plugin>
